@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://galacticoutreach.com">
-    <img alt="Galactic" src="./public/banner.png" width="100%">
+<img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/03728845-c4cc-46b7-bae9-a70aa640fcf6" />
+
   </a>
 </p>
 <h1 align="center">
