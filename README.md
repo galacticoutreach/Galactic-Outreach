@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Galactic
+  Galactic Outreach
 </h1>
 
 <h4 align="center">
